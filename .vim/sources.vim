@@ -12,8 +12,8 @@ source ~/.vim/nerdtree.vim
 
 
 " Color Scheme
-"source ~/.vim/colorscheme/molokai.vim
-source ~/.vim/colorscheme/zenburn.vim
+source ~/.vim/colorscheme/molokai.vim
+"source ~/.vim/colorscheme/zenburn.vim
 "source ~/.vim/colorscheme/simpylfold.vim
 "source ~/.vim/colorscheme/vim-colors-solarized.vim
 source ~/.vim/colorscheme/vim-airline.vim
@@ -29,3 +29,5 @@ nmap w= :resize +3<CR>
 nmap w- :resize -3<CR>
 nmap w, :vertical resize -3<CR>
 nmap w. :vertical resize +3<CR>
+
+imap <F6> <C-x><C-o>

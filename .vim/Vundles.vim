@@ -20,8 +20,8 @@ Plugin 'vim-airline/vim-airline-themes'
 
 Plugin 'terryma/vim-multiple-cursors'
 
-Plugin 'humiaozuzu/TabBar'
-Plugin 'majutsushi/tagbar'
+"Plugin 'humiaozuzu/TabBar'
+"Plugin 'majutsushi/tagbar'
 
 " Syntax
 Plugin 'scrooloose/syntastic'
@@ -43,6 +43,11 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'scrooloose/nerdtree'
 Plugin 'Xuyuanp/nerdtree-git-plugin'
 Plugin 'L9'
+
+" languanage
+" golang
+Plugin 'fatih/vim-go'
+Plugin 'Blackrush/vim-gocode'
 
 Plugin 'yaml.vim'
 
